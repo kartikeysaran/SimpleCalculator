@@ -1,0 +1,20 @@
+#SIMPLE CALCULATOR 
+This is a simple application created and deleveloped by JAVA using OOP's concepts.
+
+
+
+We use many import functions provided in java like :-
+import android.app.Dialog;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
+import android.widget.Toast;
+
+
+The UI is being made which displays the binary digits and the calculation symbols which are to be performed such as addition, subtraction , multiplication and division.
+The inputs are taken by the functions and performs simple calculations.
+
+Andriod studio is used for this project.
